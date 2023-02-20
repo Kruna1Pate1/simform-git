@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "onCreate: Change 2")
         Log.d(TAG, "onCreate: Small Change")
         Log.d(TAG, "onCreate: Major change together")
+
+        TODO("Braking change xD")
     }
     
     companion object {
